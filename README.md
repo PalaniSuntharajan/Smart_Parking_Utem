@@ -1,2 +1,3 @@
 
+The use of barrier arms in traffic control is essential for road safety and efficient vehicle management, yet selecting optimal materials for their construction remains a challenge due to limited analysis. Our project aims to address this by designing a barrier arm with a BCC lattice structure, and assessing its performance through simulations like tensile and bending tests to determine suitability. Additionally, we are developing a smart parking system, integrating Ir sensors and Arduino UNO to provide real-time parking availability data to drivers via mobile apps and displays. This system, aimed at enhancing urban mobility, aligns with smart city goals to improve quality of life and support economic growth through data-driven parking optimization.
 
